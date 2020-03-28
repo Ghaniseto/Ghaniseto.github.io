@@ -1,1 +1,0 @@
-# Ghaniseto.github.io
