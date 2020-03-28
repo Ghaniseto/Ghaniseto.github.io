@@ -4,15 +4,11 @@ body {
 }
 h1 {
   text-align: center;
-  color: #778899;
+  color: whitesmoke;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 500%;
   margin-bottom: 10px;
-  opacity: 0.6;
   padding: 10px;
-  background: linear-gradient(to right, #003973, #e5e5be);
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
   border-radius: 15px;
 }
 ul {
